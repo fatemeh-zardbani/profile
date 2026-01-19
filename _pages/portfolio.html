@@ -1,0 +1,18 @@
+---
+layout: archive
+title: "Projects"
+permalink: /portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% raw %}
+<script data-goatcounter="https://parsamo.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+{% endraw %}
+
