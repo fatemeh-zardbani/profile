@@ -10,9 +10,9 @@ locale                   : "en-US"
 title                    : "Dr. Fatemeh Zardbani"
 title_separator          : "-"
 name                     : &name "Fatemeh Zardbani"
-description              : &description "Database Researcher"
-url                      : "" # let GitHub Pages set the full site URL
-baseurl                  : "/profile" # the subpath of your site, e.g. "/blog"
+description              : &description "Database and AI Researcher"
+url                      : "https://fatemeh-zardbani.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fatemeh-zardbani/fatemeh-zardbani.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
