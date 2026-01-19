@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-CV available upon request.
+[Download CV (PDF)](/files/CV_fatemeh.pdf)
 
